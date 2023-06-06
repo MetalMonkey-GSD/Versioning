@@ -1,6 +1,6 @@
 { 
   "LatestVersion": "1.7.10.0", 
   "MinVersion": "1.7.9.0", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.7.9.0.exe", 
-  "Changes": "* Fixed multiple bugs\n* Added this and that\n* And so on..."
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.7.10.0.exe", 
+  "Changes": "* Added new task: Shops\n* Musketeers Fort: Automatically gets reward chest\n* Auto Updater: Can display change log now\n* Fixed a few minor bugs\n"
 }
