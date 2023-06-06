@@ -2,8 +2,8 @@
   "LatestVersion": "1.7.9.0", 
   "MinVersion": "1.7.9.0", 
   "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.7.9.0.exe", 
-  "Changes": [ 
-    "Change 1",
-    "Change 2"
-  ] 
+  "Changes": 
+    "* Fixed multiple bugs
+     * Added this and that
+     * And so on..."
 }
