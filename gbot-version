@@ -2,5 +2,5 @@
   "LatestVersion": "1.7.10.0", 
   "MinVersion": "1.7.9.0", 
   "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.7.10.0.exe", 
-  "Changes": "* Added new task: Shops\n* Musketeers Fort: Automatically gets reward chest\n* Auto Updater: Can display change log now\n* Settings: Added new option to skip account checking if only one account in an instance\n* Fixed a few minor bugs\n"
+  "Changes": "* Added new task: Shops\n* Musketeers Fort: Automatically gets reward chest\n* Auto Updater: Can display change log now\n* Settings: Added option to skip account checking if only one account in an instance\n* Fixed a few minor bugs\n"
 }
