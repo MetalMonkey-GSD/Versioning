@@ -1,5 +1,5 @@
 { 
-  "LatestVersion": "1.8.0.1", 
+  "LatestVersion": "1.8.0.0", 
   "MinVersion": "1.8.0.0", 
   "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.8.0.0.exe", 
   "Changes": "* Added new task: Shielding\n* Updated Accounts page: Added shield status, added tool-tips, fixed scrollbar\n* Can use older bot versions with newer settings files now\n* Fixed a few minor bugs\n"
