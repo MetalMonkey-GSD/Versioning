@@ -2,5 +2,5 @@
   "LatestVersion": "1.9.0.0", 
   "MinVersion": "1.9.0.0", 
   "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.9.0.0.exe", 
-  "Changes": "* Fixes intermittent UI freezing bug\n* Some memory and performance improvements\n* "
+  "Changes": "* Fixes intermittent UI freezing bug\n* Some memory and performance improvements"
 }
