@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.9.0.0", 
+  "LatestVersion": "1.9.1.0", 
   "MinVersion": "1.9.0.0", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.9.0.0.exe", 
-  "Changes": "* Fixes intermittent UI freezing bug\n* Some memory and performance improvements"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.9.1.0.exe", 
+  "Changes": "* Adds new option to specify Fun+ Account name if not correctly detected by OCR\n* Adds account update option"
 }
