@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.9.2.1", 
-  "MinVersion": "1.9.2.1", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.9.2.1.exe", 
-  "Changes": "* Fixes Kingdom Raid timer"
+  "LatestVersion": "1.0.0.0", 
+  "MinVersion": "1.0.0.0", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.0.0.exe", 
+  "Changes": "* Initial Release"
 }
