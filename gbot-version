@@ -1,6 +1,6 @@
 { 
   "LatestVersion": "1.0.0.1", 
-  "MinVersion": "1.0.0.1", 
+  "MinVersion": "1.0.0.0", 
   "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.0.1.exe", 
   "Changes": "* Updated to game version 1.7.0\n* Improved castle upgrades\n* Bot now prefers non-finished instances\n* Changed color design from green to blue"
 }
