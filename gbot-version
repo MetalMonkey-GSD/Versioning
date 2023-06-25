@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.0.3", 
+  "LatestVersion": "1.0.0.4", 
   "MinVersion": "1.0.0.2", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.0.3.exe", 
-  "Changes": "* Added retries for opening Lord Profile\n* Some minor improvements"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.0.4.exe", 
+  "Changes": "* Improved getting screenshots\n* Some minor improvements"
 }
