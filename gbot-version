@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.1.0", 
+  "LatestVersion": "1.0.1.1", 
   "MinVersion": "1.0.0.0", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.1.0.exe", 
-  "Changes": "* Added option to change the priority of emulator instances\n* Fixed a few small issues"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.1.1.exe", 
+  "Changes": "* Fixed an issue with Lucky Item Hunt"
 }
