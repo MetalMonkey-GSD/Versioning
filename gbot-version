@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.1.1", 
+  "LatestVersion": "1.0.1.2", 
   "MinVersion": "1.0.0.0", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.1.1.exe", 
-  "Changes": "* Fixed an issue with Lucky Item Hunt"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.1.2.exe", 
+  "Changes": "* NoxPlayer: Adds support for Android 9\n* Added checks to prevent launching mutually incompatible emulator versions"
 }
