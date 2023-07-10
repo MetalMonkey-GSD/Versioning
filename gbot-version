@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.1.2", 
+  "LatestVersion": "1.0.1.3", 
   "MinVersion": "1.0.0.0", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.1.2.exe", 
-  "Changes": "* NoxPlayer: Adds support for Android 9\n* Added checks to prevent launching mutually incompatible emulator versions"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.1.3.exe", 
+  "Changes": "* Improved installer to scan for uninstalled dependencies and install them if necessary"
 }
