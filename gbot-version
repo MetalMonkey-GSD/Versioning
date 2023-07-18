@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.1.4", 
+  "LatestVersion": "1.0.1.5", 
   "MinVersion": "1.0.0.0", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.1.4.exe", 
-  "Changes": "* Made (re-)shielding even more robust\n* Fixes some rare issues with LDPlayer\n* Added retries for some tasks\n* Fixed some minor bugs"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.1.5.exe", 
+  "Changes": "* Fixed a bug with 'Count Resources'"
 }
