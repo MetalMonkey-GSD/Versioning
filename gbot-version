@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.1.5", 
-  "MinVersion": "1.0.0.0", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.1.5.exe", 
-  "Changes": "* Fixed a bug with 'Count Resources'"
+  "LatestVersion": "1.0.2.0", 
+  "MinVersion": "1.0.2.0", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.2.0.exe", 
+  "Changes": "* Adjusted for game version 10.9.0\n* Changed bot icon and installer images"
 }
