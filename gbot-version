@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.2.2", 
+  "LatestVersion": "1.0.2.3", 
   "MinVersion": "1.0.2.2", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.2.2.exe", 
-  "Changes": "* Fixed an issue with 'Wall Defense Repair' if an account doesn't have enough gold to extinguish a burning wall"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.2.3.exe", 
+  "Changes": "* Lucky Item Hunt: Updated for new event"
 }
