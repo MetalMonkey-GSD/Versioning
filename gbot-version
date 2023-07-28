@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.2.3", 
-  "MinVersion": "1.0.2.2", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.2.3.exe", 
-  "Changes": "* Lucky Item Hunt: Updated for new event"
+  "LatestVersion": "1.0.2.4", 
+  "MinVersion": "1.0.2.4", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.2.4.exe", 
+  "Changes": "* Some UI improvements\n* Added support forum link"
 }
