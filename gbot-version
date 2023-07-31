@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.2.4", 
-  "MinVersion": "1.0.2.4", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.2.4.exe", 
-  "Changes": "* Some UI improvements\n* Added support forum link"
+  "LatestVersion": "1.0.2.5", 
+  "MinVersion": "1.0.2.5", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.2.5.exe", 
+  "Changes": "* LDPlayer: Fixed a rare bug\n* Some UI improvements"
 }
