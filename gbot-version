@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.2.5", 
-  "MinVersion": "1.0.2.5", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.2.5.exe", 
-  "Changes": "* LDPlayer: Fixed a rare bug\n* Some UI improvements"
+  "LatestVersion": "1.0.3.0", 
+  "MinVersion": "1.0.3.0", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.3.0.exe", 
+  "Changes": "* Adjusted for game version 10.10.0\n* Many performance improvements\n* Fixes a timeout issue if ADB server gets started"
 }
