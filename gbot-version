@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.3.0", 
+  "LatestVersion": "1.0.4.1", 
   "MinVersion": "1.0.3.0", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.3.0.exe", 
-  "Changes": "* Adjusted for game version 10.10.0\n* Many performance improvements\n* Fixes a timeout issue if ADB server gets started"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.4.1.exe", 
+  "Changes": "* Added new task *Catacombs - Explore*:\n\t* Automatically explores catacombs as far as possible\n\t* Fights all monsters automatically\n\t* Opens chests and gets all rewards automatically\n* Research:\n\t* Can now select the Creation skills to be researched and change their priority\n* Fixes an issue with auto restarting an emulator instance in manual mode"
 }
