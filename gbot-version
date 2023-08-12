@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.4.2", 
-  "MinVersion": "1.0.4.2", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.4.2.exe", 
-  "Changes": "* Bot can now automatically do the *Creation Crafting* tutorial\n* Some performance improvements\n* Fixed a few smaller issues"
+  "LatestVersion": "1.0.4.3", 
+  "MinVersion": "1.0.4.3", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.4.3.exe", 
+  "Changes": "* Fixed 2 very rare issues with LDPlayer"
 }
