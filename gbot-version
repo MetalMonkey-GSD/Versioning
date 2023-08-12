@@ -1,6 +1,6 @@
 { 
   "LatestVersion": "1.0.4.3", 
   "MinVersion": "1.0.4.3", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/GBotSetup_1.0.4.3.exe", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.4.3.exe", 
   "Changes": "* Fixed 2 very rare issues with LDPlayer"
 }
