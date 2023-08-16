@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.4.3", 
-  "MinVersion": "1.0.4.3", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.4.3.exe", 
-  "Changes": "* Fixed 2 very rare issues with LDPlayer"
+  "LatestVersion": "1.0.4.4", 
+  "MinVersion": "1.0.4.4", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.4.4.exe", 
+  "Changes": "* Fixes a startup issue"
 }
