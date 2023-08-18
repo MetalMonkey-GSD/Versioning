@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.4.4", 
-  "MinVersion": "1.0.4.4", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.4.4.exe", 
-  "Changes": "* Fixes a startup issue"
+  "LatestVersion": "1.0.4.5", 
+  "MinVersion": "1.0.4.5", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.4.5.exe", 
+  "Changes": "* Adjusted for game version 10.11.0\n* Fixes some smaller issues"
 }
