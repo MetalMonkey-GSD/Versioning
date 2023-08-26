@@ -2,5 +2,5 @@
   "LatestVersion": "1.0.4.7", 
   "MinVersion": "1.0.4.7", 
   "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.4.7.exe", 
-  "Changes": "* Catacombs: Adds detection of 'Not enough Stamina' window\nSpirit Mines: Fixes issue with exploring/combat\nLucky Item Hunt: Some minor improvements"
+  "Changes": "* Catacombs: Adds detection of 'Not enough Stamina' window\n* Spirit Mines: Fixes issue with exploring/combat\n* Lucky Item Hunt: Some minor improvements"
 }
