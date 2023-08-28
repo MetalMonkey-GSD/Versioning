@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.4.7", 
-  "MinVersion": "1.0.4.7", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.4.7.exe", 
-  "Changes": "* Catacombs: Adds detection of 'Not enough Stamina' window\n* Spirit Mines: Fixes issue with exploring/combat\n* Lucky Item Hunt: Some minor improvements\n* Fixes a few minor issues"
+  "LatestVersion": "1.0.4.8", 
+  "MinVersion": "1.0.4.8", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.4.8.exe", 
+  "Changes": "* Rally Creation: Added option to auto use stamina items if out of stamina\n* Fixes a few small issues"
 }
