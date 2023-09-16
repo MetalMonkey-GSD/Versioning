@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.5.0", 
-  "MinVersion": "1.0.4.8", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.5.0.exe", 
-  "Changes": "* Adjusted for game version 10.12.0\n* Added new task **Inventory**. The bot can now automatically use items from your inventory. The following items can be used:\n\t* Gold items\n\t* Common Chests (optionally use higher level Munition Chests first)\n\t* Frame items\n\t* Lord XP items\n\t* Creation XP items\n\t* VIP items\n* Count Resources: Fixes detection for *Gold 2000* and *Silver 75000*\n* Some minor UI fixes"
+  "LatestVersion": "1.0.6.0", 
+  "MinVersion": "1.0.5.0", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.0.exe", 
+  "Changes": "* Adjusted for game version 11.0.0\n* Improved Randomization\n* Spirit Mines: Fixed detection of higher level mines\n* Multiple smaller fixes and improvements"
 }
