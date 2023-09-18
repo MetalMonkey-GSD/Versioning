@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.6.0", 
+  "LatestVersion": "1.0.6.1", 
   "MinVersion": "1.0.5.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.0.exe", 
-  "Changes": "* Adjusted for game version 11.0.0\n* Improved Randomization\n* Spirit Mines: Fixed detection of higher level mines\n* Multiple smaller fixes and improvements"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.1.exe", 
+  "Changes": "* Lucky Item Hunt: Updated for new event\n* Fixes an issue with claming main quest rewards"
 }
