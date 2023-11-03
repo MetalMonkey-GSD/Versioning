@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.6.4", 
+  "LatestVersion": "1.0.6.5", 
   "MinVersion": "1.0.6.1", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.4.exe", 
-  "Changes": "* Adjusted for game version 11.3.0\n* Fixed a problem with selecting formations"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.5.exe", 
+  "Changes": "* RallyManagement: Fixes multiple issues with joining rallies"
 }
