@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.6.5", 
-  "MinVersion": "1.0.6.1", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.5.exe", 
-  "Changes": "* Rally Management: Fixes multiple issues with joining rallies"
+  "LatestVersion": "1.0.6.6", 
+  "MinVersion": "1.0.6.6", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.6.exe", 
+  "Changes": "* Adjusted to work with the last game update"
 }
