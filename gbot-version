@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.6.6", 
-  "MinVersion": "1.0.6.6", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.6.exe", 
-  "Changes": "* Adjusted to work with the last game update"
+  "LatestVersion": "1.0.6.7", 
+  "MinVersion": "1.0.6.7", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.7.exe", 
+  "Changes": "* Inventory: Adjusted buttons with the game update"
 }
