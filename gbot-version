@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.6.7", 
+  "LatestVersion": "1.0.6.8", 
   "MinVersion": "1.0.6.7", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.7.exe", 
-  "Changes": "* Inventory: Adjusted buttons with the game update"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.6.8.exe", 
+  "Changes": "* Lucky Item Hunt: Updated for new event"
 }
