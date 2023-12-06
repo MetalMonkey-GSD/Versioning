@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.7.1", 
-  "MinVersion": "1.0.7.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.7.1.exe", 
-  "Changes": "* Adjusted to work with the latest game update\n* Multiple smaller fixes and improvements"
+  "LatestVersion": "1.0.8.2", 
+  "MinVersion": "1.0.7.1", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.0.8.2.exe", 
+  "Changes": "* Adjusted for game version 11.6.0\n* Rally Management: Can create and join **Tormentor Foothold Rallies** now\n* Estate Affairs: Added new option **Tormentor Bandits/Lead**\n* Added workaround for a crash bug caused by latest WinUI SDK\n* Many smaller fixes and improvements"
 }
