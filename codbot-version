@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.0.1", 
-  "MinVersion": "1.0.0.1", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.1.exe", 
-  "Changes": "* Fixes an issue with account switching"
+  "LatestVersion": "1.0.0.2", 
+  "MinVersion": "1.0.0.2", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.2.exe", 
+  "Changes": "* Multiple smaller fixes and improvements"
 }
