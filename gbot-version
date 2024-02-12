@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.0.0", 
-  "MinVersion": "1.0.9.1", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.0.0.exe", 
-  "Changes": "* Adjusted for game version 11.10.0\n* Added new setting: \"Gear Change\". The bot can now switch to different gears before executing specific tasks: [Click here for more information.](https://www.gog-bot.com/setup/setup-account-and-overview/#account%3A-settings)\n* Lucky Item Hunt: Updated for new event\n* Multiple smaller fixes and improvements"
+  "LatestVersion": "1.1.0.1", 
+  "MinVersion": "1.1.0.1", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.0.1.exe", 
+  "Changes": "* Fixes problems with *Attack Threats* and *Gather Resources - Kingdom* after today's update"
 }
