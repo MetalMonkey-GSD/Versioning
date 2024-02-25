@@ -2,5 +2,5 @@
   "LatestVersion": "1.1.0.3", 
   "MinVersion": "1.1.0.1", 
   "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.0.3.exe", 
-  "Changes": "* Fixes startup problem with instances that have at least one space in their name\n* Multiple smaller fixes and improvements"
+  "Changes": "* Fixes startup problem with emulator instances that have at least one space in their name\n* Multiple smaller fixes and improvements"
 }
