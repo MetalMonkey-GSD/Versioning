@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.2.0", 
+  "LatestVersion": "1.1.2.1", 
   "MinVersion": "1.1.0.1", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.2.0.exe", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.2.1.exe", 
   "Changes": "* Adjusted for game version 11.12.0\n* Lucky Item Hunt: Updated for new event\n* Added new task: Attack Berserker Behemoth\n* Added new task: Lucky Roulette\n* Mail: Can optionally read *War* mails now\n* Raised Threat level to 105\n* Multiple smaller fixes and improvements"
 }
