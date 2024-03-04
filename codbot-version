@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.0.4", 
+  "LatestVersion": "1.0.0.5", 
   "MinVersion": "1.0.0.2", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.4.exe", 
-  "Changes": "* Fixes a few issues with Attack Darklings and Gather Resources"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.5.exe", 
+  "Changes": "* Adds option to use speedups for Research and Building Upgrades\n* Fixes a problem with priorities\n* Multiple smaller fixes and improvements"
 }
