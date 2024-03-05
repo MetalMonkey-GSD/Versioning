@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.0.5", 
-  "MinVersion": "1.0.0.2", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.5.exe", 
-  "Changes": "* Adds option to use speedups for Research and Building Upgrades\n* Fixes a problem with priorities\n* Multiple smaller fixes and improvements"
+  "LatestVersion": "1.0.0.6", 
+  "MinVersion": "1.0.0.6", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.6.exe", 
+  "Changes": "* Added handling of intermediate screen when upgrading to city level 12\n* Upgrade City: Fixed an issue with using speedups and a rare crash issue"
 }
