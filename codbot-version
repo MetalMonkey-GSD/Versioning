@@ -2,5 +2,5 @@
   "LatestVersion": "1.0.0.7", 
   "MinVersion": "1.0.0.6", 
   "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.7.exe", 
-  "Changes": "* Fixes an issue with Wall Repair"
+  "Changes": "* Fixes an issue with Wall Defense Repair"
 }
