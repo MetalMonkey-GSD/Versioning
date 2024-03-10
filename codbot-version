@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.0.6", 
+  "LatestVersion": "1.0.0.7", 
   "MinVersion": "1.0.0.6", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.6.exe", 
-  "Changes": "* Added handling of intermediate screen when upgrading to city level 12\n* Upgrade City: Fixed an issue with using speedups and a rare crash issue"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.7.exe", 
+  "Changes": "* Fixes an issue with Wall Repair"
 }
