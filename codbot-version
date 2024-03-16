@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.0.8", 
-  "MinVersion": "1.0.0.6", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.8.exe", 
-  "Changes": "* Augurstone: Fixes the issue that not all rewards were claimed"
+  "LatestVersion": "1.0.0.9", 
+  "MinVersion": "1.0.0.9", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.9.exe", 
+  "Changes": "* Account Switching: Adjusted to new Google sign-in UI"
 }
