@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.0.9", 
+  "LatestVersion": "1.0.0.10", 
   "MinVersion": "1.0.0.9", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.9.exe", 
-  "Changes": "* Account Switching: Adjusted to new Google sign-in UI"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.0.10.exe", 
+  "Changes": "* Explore: Fixed multiple issues\n* Multiple smaller fixes and improvements"
 }
