@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.2.1", 
-  "MinVersion": "1.0.1.0", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.2.1.exe", 
-  "Changes": "* Map: Fixed detection of Eagle Nest and Celestial Temple"
+  "LatestVersion": "1.0.2.2", 
+  "MinVersion": "1.0.2.1", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.2.2.exe", 
+  "Changes": "* Fixes a rare crash issue"
 }
