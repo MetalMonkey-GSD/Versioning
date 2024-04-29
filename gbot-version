@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.4.1", 
-  "MinVersion": "1.1.4.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.4.1.exe", 
-  "Changes": "* Fixes an issue with Alliance Celebration Chests"
+  "LatestVersion": "1.1.5.0", 
+  "MinVersion": "1.1.4.1", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.5.0.exe", 
+  "Changes": "* "Adjusted for game version 11.16.0\n* Lucky Item Hunt: Updated for new event\n* Multiple smaller fixes and improvements""
 }
