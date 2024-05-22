@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.5.2", 
+  "LatestVersion": "1.1.5.3", 
   "MinVersion": "1.1.5.1", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.5.2.exe", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.5.3.exe", 
   "Changes": "* Fixes detection of some event icons\n* Fixes issues with Return Of The King"
 }
