@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.5.1", 
-  "MinVersion": "1.1.5.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.5.1.exe", 
-  "Changes": "* Royal Expeditions: Fixes detection of passed reward chests\n* Fixes a rare issue in game installation process"
+  "LatestVersion": "1.1.5.2", 
+  "MinVersion": "1.1.5.1", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.5.2.exe", 
+  "Changes": "* Fixes detection of some event icons\n* Fixes issues with Return Of The King"
 }
