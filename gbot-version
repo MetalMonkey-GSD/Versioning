@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.5.4", 
-  "MinVersion": "1.1.5.4", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.5.4.exe", 
-  "Changes": "* Fixes detection of some event icons\n* Fixes issues with Return Of The King\n* Fixes issue with opening/closing of icon bars"
+  "LatestVersion": "1.1.6.0", 
+  "MinVersion": "1.1.6.0", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.6.0.exe", 
+  "Changes": "* Adjusted for game version 11.18.0\n* Lucky Item Hunt: Updated for new event\n* Multiple smaller fixes and improvements"
 }
