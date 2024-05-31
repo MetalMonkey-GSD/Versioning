@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.6.0", 
+  "LatestVersion": "1.1.6.1", 
   "MinVersion": "1.1.6.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.6.0.exe", 
-  "Changes": "* Adjusted for game version 11.18.0\n* Lucky Item Hunt: Updated for new event\n* Multiple smaller fixes and improvements"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.6.1.exe", 
+  "Changes": "* Adjusted to work with new Google login page"
 }
