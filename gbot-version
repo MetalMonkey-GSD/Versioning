@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.6.2", 
+  "LatestVersion": "1.1.6.3", 
   "MinVersion": "1.1.6.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.6.2.exe", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.6.3.exe", 
   "Changes": "* Catacombs Explore: Fixes multiple issues\n* A few smaller fixes and improvements"
 }
