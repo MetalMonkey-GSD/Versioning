@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.2.2", 
+  "LatestVersion": "1.0.2.3", 
   "MinVersion": "1.0.2.1", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.2.2.exe", 
-  "Changes": "* Fixes a rare crash issue"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.2.3.exe", 
+  "Changes": "* Attack Darklings: Increased search area for *Attack* button\n* Multiple smaller fixes and improvements"
 }
