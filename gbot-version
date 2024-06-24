@@ -1,6 +1,6 @@
 { 
   "LatestVersion": "1.1.7.1", 
-  "MinVersion": "1.1.6.0", 
+  "MinVersion": "1.1.7.0", 
   "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.7.1.exe", 
   "Changes": "* Lucky Item Hunt: Updated for new event\n* Fixes an issue with Return Of The King\n* A few smaller fixes and improvements"
 }
