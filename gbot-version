@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.7.0", 
+  "LatestVersion": "1.1.7.1", 
   "MinVersion": "1.1.6.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.7.0.exe", 
-  "Changes": "* Adjusted for game version 11.20.0\n* Estate Affairs: Added option to attack *Hollowed Knights*\n* Attack Threats: Adjusted to work with the latest game version\n* A few smaller fixes and improvements"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.7.1.exe", 
+  "Changes": "* Lucky Item Hunt: Updated for new event\n* Fixes an issue with Return Of The King\n* A few smaller fixes and improvements"
 }
