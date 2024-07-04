@@ -1,6 +1,6 @@
 { 
   "LatestVersion": "1.1.7.3", 
-  "MinVersion": "1.1.7.1", 
+  "MinVersion": "1.1.7.0", 
   "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.7.3.exe", 
   "Changes": "* Honor Challenge: Fixes an issue after game update\n* Road to Victory: Fixes issue after game update\n* Fixes problem with a pop-up on game start"
 }
