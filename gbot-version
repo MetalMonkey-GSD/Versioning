@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.7.3", 
+  "LatestVersion": "1.1.7.4", 
   "MinVersion": "1.1.7.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.7.3.exe", 
-  "Changes": "* Honor Challenge: Fixes an issue after game update\n* Road to Victory: Fixes issue after game update\n* Fixes problem with a pop-up on game start"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.7.4.exe", 
+  "Changes": "* Added compatibility with LDPlayer5 v5.0.12\n* Improved detection for multiple game elements\n* Some smaller fixes and improvements"
 }
