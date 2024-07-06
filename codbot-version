@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.3.2", 
+  "LatestVersion": "1.0.3.3", 
   "MinVersion": "1.0.3.1", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.3.2.exe", 
-  "Changes": "* Added compatibility with LDPlayer5 v5.0.12\n* Gather Resources - World Map: Added option to override default repetition interval\n* A few smaller fixes and improvements"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.3.3.exe", 
+  "Changes": "* Added compatibility with LDPlayer5 v5.0.12\n* Gather Resources - World Map: Added option to override default repetition interval\n* Fixes an issue with Attack Darklings\n* A few smaller fixes and improvements"
 }
