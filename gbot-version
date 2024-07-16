@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.7.4", 
+  "LatestVersion": "1.1.8.0", 
   "MinVersion": "1.1.7.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.7.4.exe", 
-  "Changes": "* Added compatibility with LDPlayer5 v5.0.12\n* Improved detection for multiple game elements\n* Some smaller fixes and improvements"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.8.0.exe", 
+  "Changes": "* Adjusted for game version 11.22.0\n* Estate Affairs: Added option to attack *Flying Dutchman*\n* Multiple fixes and improvements\n* Note: The *Aroma Garden* tutorial must be clicked through manually"
 }
