@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.4.0", 
-  "MinVersion": "1.0.4.0", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.4.0.exe", 
+  "LatestVersion": "1.0.4.1", 
+  "MinVersion": "1.0.4.1", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.4.1.exe", 
   "Changes": "* Adjusted to work with the latest game version"
 }
