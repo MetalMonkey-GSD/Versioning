@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.4.2", 
-  "MinVersion": "1.0.4.2", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.4.2.exe", 
-  "Changes": "* Fixes multiple issues with opening certain buildings\n* Account Switching: Fixes multiple issues with the Google sign-in page"
+  "LatestVersion": "1.0.4.3", 
+  "MinVersion": "1.0.4.3", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.4.3.exe", 
+  "Changes": "* Map: Fixed an issue with detecting the quest menu button after a recent UI change"
 }
