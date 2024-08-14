@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.4.3", 
+  "LatestVersion": "1.0.4.4", 
   "MinVersion": "1.0.4.3", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.4.3.exe", 
-  "Changes": "* Map: Fixed an issue with detecting the quest menu button after a recent UI change"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.4.4.exe", 
+  "Changes": "* Added workarounds for multiple issues with LDPlayer 5.0.12 and 5.0.13\n* Fixes a minor memory leak\n* Fixes multiple smaller issues"
 }
