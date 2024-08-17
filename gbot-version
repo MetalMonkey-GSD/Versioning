@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.8.2", 
+  "LatestVersion": "1.1.8.3", 
   "MinVersion": "1.1.8.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.8.2.exe", 
-  "Changes": "* Lucky Item Hunt: Updated for new event\n* Fixes an issue with Furry Friends\n* Fixes an issue with Honor Challenge"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.8.3.exe", 
+  "Changes": "* Added workarounds for multiple issues with LDPlayer 5.0.12 and 5.0.13 \n* Fixes a minor memory leak"
 }
