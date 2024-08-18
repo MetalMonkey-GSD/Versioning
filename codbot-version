@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.4.4", 
+  "LatestVersion": "1.0.4.5", 
   "MinVersion": "1.0.4.3", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.4.4.exe", 
-  "Changes": "* Added workarounds for multiple issues with LDPlayer 5.0.12 and 5.0.13\n* Fixes a minor memory leak\n* Fixes multiple smaller issues"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.4.5.exe", 
+  "Changes": "* Installation: Fixed issue when downgrading to the required game version\n* Explore: Fixed issue with sending scouts after recent UI changes\n* Quests: Fixes quest button search area"
 }
