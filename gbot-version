@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.1.8.3", 
-  "MinVersion": "1.1.8.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.8.3.exe", 
-  "Changes": "* Added workarounds for multiple issues with LDPlayer 5.0.12 and 5.0.13 \n* Fixes a minor memory leak"
+  "LatestVersion": "1.1.9.1", 
+  "MinVersion": "1.1.9.1", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.1.9.1.exe", 
+  "Changes": "* Adjusted for game version 11.24.100\n* Lucky Item Hunt: Updated for new event\n* Rally Management: Increased maximum level to 60\n* Installation: Fixed issue when downgrading to the required game version\n* Multiple smaller fixes and improvements"
 }
