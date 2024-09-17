@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.2.0.0", 
+  "LatestVersion": "1.2.1.0", 
   "MinVersion": "1.1.9.1", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.2.0.0.exe", 
-  "Changes": "* Adjusted for game version 11.25.0\n* Added new task **Airship Quests**: Automatically claims all Airship quest rewards\n* Added new task **Guard Equipment**: Automatically fills up material production queue with selected materials\n* Gathering - Kingdom: The bot will now attempt to fill up all marches now\n* Hospital: Added option to heal all troops also with resources from inventory\n* Hospital: Added option to also heal troops at Border Hospital\n* Added new option *Maximum wait time for marches to return* for the tasks: Attack Berserker Behemoth, Attack Threads and Estate affairs \n* Inventory: Added several new items and chests the bot can now use\n* Fixed an issue with not detecting some icons during Kingdom Conflict event\n* Guards: Fixed an issue with the new UI when upgrading star levels"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.2.1.0.exe", 
+  "Changes": "* Adjusted for game version 12.0.0\n* Lucky Item Hunt: Updated for new event\n* Multiple smaller fixes and improvements\n* Note: Significant changes have been made in this game version. If you encounter any issues, please submit a ticket to let us know"
 }
