@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.2.1.1", 
+  "LatestVersion": "1.2.1.2", 
   "MinVersion": "1.1.9.1", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.2.1.1.exe", 
-  "Changes": "* Inventory: Fixes an issue with detecting the correct Guard Equipment chest"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.2.1.2.exe", 
+  "Changes": "* Inventory: Fixes an issue with detecting the correct Guard Equipment chest\n* Fixes an issue on startup"
 }
