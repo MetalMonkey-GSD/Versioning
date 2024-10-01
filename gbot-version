@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.2.1.2", 
+  "LatestVersion": "1.2.2.0", 
   "MinVersion": "1.1.9.1", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.2.1.2.exe", 
-  "Changes": "* Inventory: Fixes an issue with detecting the correct Guard Equipment chest\n* Fixes an issue on startup"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.2.2.0.exe", 
+  "Changes": "* Rally Management: Fixes multiple issues\n* Rally Management: Added option to use Quick Join button to auto join all available rallies\n* Daily Shipment: Fixes detection of *Collect* button\n* Inventory: Fixes an issue with duplicate chest icons"
 }
