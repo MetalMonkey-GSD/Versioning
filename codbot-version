@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.5.0", 
-  "MinVersion": "1.0.4.3", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.5.0.exe", 
-  "Changes": "* Startup: Can now click through dialogs if the account hasn't been logged in for a longer time\n* Inventory: Fixed a few issues\n* Gather Resources - World Map: The bot will now attempt to fill up all marches\n* Added new task **Pet Sanctuary**: The bot can now tap your pets and claim all rewards\n* Fixed an issue on startup\n* Multiple smaller fixes and improvements"
+  "LatestVersion": "1.0.6.1", 
+  "MinVersion": "1.0.6.1", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.6.1.exe", 
+  "Changes": "* Map: Fixes detection of buildings for lower City Hall levels after latest game update"
 }
