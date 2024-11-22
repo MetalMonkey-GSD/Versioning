@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.6.1", 
-  "MinVersion": "1.0.6.1", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.6.1.exe", 
-  "Changes": "* Map: Fixes detection of buildings for lower City Hall levels after latest game update"
+  "LatestVersion": "1.0.6.2", 
+  "MinVersion": "1.0.6.2", 
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.6.2.exe", 
+  "Changes": "* Pet Sanctuary: Fixes an issue following a recent game update"
 }
