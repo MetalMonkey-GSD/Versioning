@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.3.0.0", 
-  "MinVersion": "1.2.2.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.3.0.0.exe", 
-  "Changes": "* Adjusted for game version 12.2.0\n* Lucky Item Hunt: Updated for new event\n* Added new task **Helper Lady**: The bot can now quick complete certain in-game tasks through the built-in Helper Lady\n* Mermaid - Treasure Diving: The bot can now assign each mermaid to different diving spots\n* Shielding: You can now set how much earlier the bot should activate the shield before the Kingdom Raid starts\n* Multiple smaller fixes and improvements"
+  "LatestVersion": "1.3.2.5", 
+  "MinVersion": "1.3.0.0", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.3.2.5.exe", 
+  "Changes": "* Adjusted for game version 12.6.0\n* Added new task **Prestige Events Chest**\n* Added new task **Imperial University Seminar**\n* Guard Equipment: Bot will use the *Quick Fill* button if only one material is selected\n* Multiple smaller fixes and improvements"
 }
