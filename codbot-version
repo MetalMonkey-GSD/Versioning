@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.0.6.2", 
+  "LatestVersion": "1.0.7.0", 
   "MinVersion": "1.0.6.2", 
-  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.6.2.exe", 
-  "Changes": "* Pet Sanctuary: Fixes an issue following a recent game update"
+  "LatestDownloadUrl": "https://cdn.bot-cave.org/CBotSetup_1.0.7.0.exe", 
+  "Changes": "* Updated for the latest game version\n * The bot now uses the game's account name copy feature. Ensure entered account names match in-game names exactly (case-sensitive). Account name images were removed."
 }
