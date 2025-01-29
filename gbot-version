@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.3.2.6", 
-  "MinVersion": "1.3.0.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.3.2.6.exe", 
-  "Changes": "* Adjusted for game version 12.6.0\n* Added new task **Prestige Events Chest**\n* Added new task **Imperial University Seminar**\n* Guard Equipment: Bot will use the *Quick Fill* button if only one material is selected\n* Furry Friends: Fixed to work again after update\n* Multiple smaller fixes and improvements"
+  "LatestVersion": "1.4.0.0", 
+  "MinVersion": "1.3.2.6", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.4.0.0.exe", 
+  "Changes": "* Adjusted for game version 12.9.0\n* Added support for new Mermaid/Merman: Thalassia and Thalassios\n* Added support for new Gear Change system\n* Fixes a rare issue with account settings not getting saved correctly or even getting lost on a restart of the bot\n* Multiple smaller fixes and improvements"
 }
