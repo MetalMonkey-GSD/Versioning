@@ -2,5 +2,5 @@
   "LatestVersion": "1.4.0.2", 
   "MinVersion": "1.4.0.1", 
   "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.4.0.2.exe", 
-  "Changes": "* Adjusted for game version 12.9.0\n* Added support for new Mermaid/Merman: Thalassia and Thalassios\n* Added support for new Gear Change system\n* Fixes a rare issue with account settings not getting saved correctly or even getting lost on a restart of the bot\n* Fixes an issue with Guards Recruit\n* Multiple smaller fixes and improvements"
+  "Changes": "* Fixes an issue with Guards Recruit"
 }
