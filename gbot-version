@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.4.0.2", 
-  "MinVersion": "1.4.0.1", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.4.0.2.exe", 
-  "Changes": "* Fixes an issue with Guards Recruit"
+  "LatestVersion": "1.5.0.0", 
+  "MinVersion": "1.4.0.2", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.5.0.0.exe", 
+  "Changes": "* Adjusted for game version 12.15.0\n* Multiple fixes and improvements"
 }
