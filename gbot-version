@@ -2,5 +2,5 @@
   "LatestVersion": "1.5.0.2", 
   "MinVersion": "1.5.0.0", 
   "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.5.0.2.exe", 
-  "Changes": "* Fixed an issue with Furry Friends\n* Attack Threats: Raised max level to 115"
+  "Changes": "* Fixes an issue with Furry Friends\n* Attack Threats: Raised max level to 115"
 }
