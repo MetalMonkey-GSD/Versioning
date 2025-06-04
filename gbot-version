@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.5.0.5", 
+  "LatestVersion": "1.5.0.6", 
   "MinVersion": "1.5.0.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.5.0.5.exe", 
-  "Changes": "* Fixes an issue with Furry Friends\n* Attack Threats: Raised max level to 115\n* Road To Victory: Fixes a stuck issue\n* Fixes Lucky Roulette event\n* Fixes a problem with the Google login page"
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.5.0.6.exe", 
+  "Changes": "* Fixes an issue with Furry Friends\n* Attack Threats: Raised max level to 115\n* Road To Victory: Fixes a stuck issue\n* Fixes Lucky Roulette event\n* Fixes a problem with the Google login page\n* Road To Victory: Fixes a stuck problem if the game reports an error"
 }
