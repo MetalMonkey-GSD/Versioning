@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.7.0.0", 
-  "MinVersion": "1.6.0.1", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.7.0.0.exe", 
-  "Changes": "* Adjusted for game version 13.2.0\n* Google: Fixed a problem with account switching\n* Multiple fixes and improvements"
+  "LatestVersion": "1.7.0.1", 
+  "MinVersion": "1.7.0.0", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.7.0.1.exe", 
+  "Changes": "* Fixes an issue with Return Of The King"
 }
