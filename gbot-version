@@ -1,6 +1,6 @@
 { 
-  "LatestVersion": "1.7.0.1", 
-  "MinVersion": "1.7.0.0", 
-  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.7.0.1.exe", 
-  "Changes": "* Fixes an issue with Return Of The King"
+  "LatestVersion": "1.8.0.0", 
+  "MinVersion": "1.7.0.1", 
+  "LatestDownloadUrl": "https://cdn.gog-bot.com/GBotSetup_1.8.0.0.exe", 
+  "Changes": "* Adjusted for game version 13.10.0\n* Helper Lady: Bot now also completes *Daily Reminder* if available\n* Removed tasks that are no longer in game\n* Multiple fixes and improvements"
 }
